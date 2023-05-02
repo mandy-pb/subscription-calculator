@@ -1,0 +1,10 @@
+{
+  "name": "subscription-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "subscription": "3.0.0"
+  },
+  "keywords": []
+}
